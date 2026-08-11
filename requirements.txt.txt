@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+boto3
+pandas
+reportlab
+python-dotenv
