@@ -1,0 +1,2 @@
+# Cloud-Security-Posture-Management-CSPM-with-Endpoint-Detection-Response-EDR-
+Developed integrated cybersecurity platform with Cloud Security Posture Management (CSPM) and Endpoint Detection &amp; Response (EDR) for ongoing monitoring of cloud infrastructure and endpoint security. The system detects misconfigurations, vulnerabilities, suspicious activity and security threats across multi-cloud environments and endpoints.
